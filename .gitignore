@@ -1,3 +1,7 @@
+# .gitignore
 node_modules
-.env
+
 .DS_Store
+
+# Don't ignore the .env because this is a demo app
+# .env
